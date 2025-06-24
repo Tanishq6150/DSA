@@ -1,1 +1,3 @@
-struct_and_fun.exe
+.vscode/
+*.exe
+.exe
